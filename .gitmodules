@@ -8,3 +8,8 @@
 	url = https://github.com/joliencremers/bpnreg
 	shallow = true
 	registered = true
+[submodule "waspr"]
+	path = waspr
+	url = https://github.com/joliencremers/waspr
+	shallow = true
+	registered = true
